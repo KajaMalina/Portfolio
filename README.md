@@ -3,14 +3,14 @@ Moje portfolio testerskie
 # Sekcja 'O mnie'
 Od czterech lat pracuję jako lekarz weterynarii, planuję zmienić branżę i niedawno skończyłam kurs na testera oprogramowania. Jestem osobą dokładną, kreatywną i empatyczną.
 # Narzędzia
-Jira
-Confluence
-TestRail
-TestLink
-Sitechco
-Mantis
-Bugzilla
-Redmine
+*Jira
+*Confluence
+*TestRail
+*TestLink
+*Sitechco
+*Mantis
+*Bugzilla
+*Redmine
 # Kursy
 Ukończony kurs na testera manualnego Szkoła Testerów QA-courses (29.04.2022)
 # Webinary, Meetupy
