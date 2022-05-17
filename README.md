@@ -13,8 +13,9 @@ Od czterech lat pracuję jako lekarz weterynarii, planuję zmienić branżę i n
 * Redmine
 # Kursy
 Ukończony kurs na testera manualnego Szkoła Testerów QA-courses (29.04.2022)
-# Webinary, Meetupy
-29.03.2022- Podstawy SQL
+# Webinary, Meetupy, Podcasty
+29.03.2022- Podstawy SQL (IFS&WHILES)
+Podcast Norberta Jankowskiego- "Testowanie Oprogramowania"
 # Twoje projekty
 Testowanie aplikacji Whatbook na kursie dla testerów manualnych ze Szkoły Testerów QA-courses.
 * [Whatbook- wstęp i Mindmap](https://drive.google.com/file/d/1ciqqvVgdWhz8_R_6NMnuRSwfOANK6_TK/view?usp=sharing)
