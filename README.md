@@ -29,4 +29,4 @@ Testowanie aplikacji Whatbook na kursie dla testerów manualnych ze Szkoły Test
 * [Bugi oraz ulepszenie opracowane w programie Redmine](https://drive.google.com/file/d/1o0OaYeVBlI_qqt6fTW_zw_jsRSOTxOZb/view?usp=sharing)
 * [Różne rodzaje testowania na przykładzie aplikacji “Whatbook: Home of non-fiction”](https://drive.google.com/file/d/1aYYigo3E0zg9rmxyTDmfM7pOBMjZp359/view?usp=sharing)
 * [Przypadek użycia](https://drive.google.com/file/d/15OHu-WNq37fabil29C-P2TJLVOOF05Dk/view?usp=sharing)
-* [Błędy znalezione w aplikacji oraz na stronie HiPets] (https://drive.google.com/file/d/1ZMw77XBJVRFkFosjDl5LSnvolw3v7Yp7/view?usp=sharing)
+* [Błędy znalezione w aplikacji oraz na stronie HiPets](https://drive.google.com/file/d/1ZMw77XBJVRFkFosjDl5LSnvolw3v7Yp7/view?usp=sharing)
