@@ -1,7 +1,7 @@
 # Portfolio
 Moje portfolio testerskie
 # Sekcja 'O mnie'
-Od czterech lat pracuję jako lekarz weterynarii, planuję zmienić branżę i niedawno skończyłam kurs na testera oprogramowania. Jestem osobą dokładną, kreatywną i empatyczną.
+Po czterech latach pracy jako lekarz weterynarii zmieniłam branżę i pracuję na stanowisku testera aplikacji w firmie logistycznej. Skończyłam kurs na testera oprogramowania. Jestem osobą dokładną, dociekliwą, bardzo kreatywną i empatyczną.
 # Narzędzia
 * Jira
 * Confluence
