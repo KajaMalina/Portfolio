@@ -11,6 +11,9 @@ Po czterech latach pracy jako lekarz weterynarii zmieniłam branżę i pracuję 
 * Mantis
 * Bugzilla
 * Redmine
+# Certyfikaty
+*ISTQB® Certified Tester Foundation Level (No20829/CTFL/2023)
+*Certyfikat ITIL®4 Foundation
 # Kursy
 Ukończony kurs na testera manualnego Szkoła Testerów QA-courses (29.04.2022)
 # Webinary, Meetupy, Podcasty
